@@ -5,3 +5,5 @@
 
 ## Final Project Video Demo:
 
+## Screenshot of the game:
+<img src= "https://github.com/tirzagabriella/FinalProject-FlappyPlane/blob/main/Game-screenshot.jpg" width="300" height="400">
